@@ -2,3 +2,7 @@ Archivo de prueba
 "Hola" :)
 
 Nuevo cambio :P
+
+
+ res.header("Access-Control-Allow-Origin", "*");
+ res.header("Access-Control-Allow-Headers", "X-Requested-With");
